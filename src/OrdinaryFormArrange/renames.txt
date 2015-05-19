@@ -1,0 +1,12 @@
+﻿3ad6ff76-ee85-4237-8fe6-8c1cde2068c2-->und\3ad6ff76-ee85-4237-8fe6-8c1cde2068c2
+97b22885-596a-4f99-9ada-00acb9d104bb.0\info-->und\97b22885-596a-4f99-9ada-00acb9d104bb.0\info
+97b22885-596a-4f99-9ada-00acb9d104bb.0\text-->ObjectModule.txt
+aeef24ba-9da7-44a3-9db2-0a2b6fd3028e-->und\aeef24ba-9da7-44a3-9db2-0a2b6fd3028e
+aeef24ba-9da7-44a3-9db2-0a2b6fd3028e.0-->Form\Форма
+baff253d-5f17-4726-90bb-272daf0adb46-->und\baff253d-5f17-4726-90bb-272daf0adb46
+baff253d-5f17-4726-90bb-272daf0adb46.0-->Макеты\Макет.txt
+baff253d-5f17-4726-90bb-272daf0adb46.0-->und\baff253d-5f17-4726-90bb-272daf0adb46.0
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
