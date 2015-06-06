@@ -144,8 +144,8 @@
 КонецПроцедуры
 
 Процедура ПерейтиНаСтраницуРазработкиНажатие(Элемент)
-	ЗапуститьПриложение("https://github.com/xDrivenDevelopment/v8Reader");
-	//ЗапуститьПриложение("http://infostart.ru/public/106310/");
+	//ЗапуститьПриложение("https://github.com/xDrivenDevelopment/v8Reader");
+	ЗапуститьПриложение("http://infostart.ru/public/106310/");
 КонецПроцедуры
 
 СтраницаРазработки="http://infostart.ru/public/106310/";
